@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-owasp-test",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for OWASP ZAP testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "helmet": "^7.1.0"
+  }
+}
